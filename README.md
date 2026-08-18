@@ -67,19 +67,19 @@ exploratory data analysis, visualization, and business insight generation.
 
 Age Group-wise Gender
 
-![Age Gender](images/age_gender.png)
+![Age Gender](Images/age_gender.PNG)
 
 Product Category-wise Amount
 
-![Product Category Amount](images/product_category_amount.png)
+![Product Category Amount](Images/product_category_amount.PNG)
 
 Sector-wise Orders
 
-![Sector Orders](images/sector_orders.png)
+![Sector Orders](Images/sector_orders.PNG)
 
 State-wise Amount
 
-![State Amount](images/state_amount.png)
+![State Amount](Images/state_amount.PNG)
 
 Zone-wise Amount
 
