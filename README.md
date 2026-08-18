@@ -83,7 +83,7 @@ State-wise Amount
 
 Zone-wise Amount
 
-![Zone Amount](images/zone_amount.png)
+![Zone Amount](Images/zone_amount.PNG)
 
 
 
