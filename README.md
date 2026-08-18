@@ -71,7 +71,7 @@ Age Group-wise Gender
 
 Product Category-wise Amount
 
-![Product Category Amount](Images/product_category_amount.PNG)
+![Product Category Amount](Images/product_categor-amount.PNG)
 
 Sector-wise Orders
 
