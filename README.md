@@ -62,3 +62,28 @@ exploratory data analysis, visualization, and business insight generation.
 - Exploratory Data Analysis
 - Data Visualization
 - Business Analysis
+
+  📊 Visualizations
+
+Age Group-wise Gender
+
+![Age Gender](images/age_gender.png)
+
+Product Category-wise Amount
+
+![Product Category Amount](images/product_category_amount.png)
+
+Sector-wise Orders
+
+![Sector Orders](images/sector_orders.png)
+
+State-wise Amount
+
+![State Amount](images/state_amount.png)
+
+Zone-wise Amount
+
+![Zone Amount](images/zone_amount.png)
+
+
+
